@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="login.h" Top="No" Tabpos="1" TopLine="8">
+			<Cursor Line="23" Column="12"/>
+		</File>
+		<File Name="login.cpp" Top="No" Tabpos="2" TopLine="24">
+			<Cursor Line="78" Column="3"/>
+		</File>
+		<File Name="loginMain.cpp" Top="No" Tabpos="3" TopLine="10">
+			<Cursor Line="11" Column="1"/>
+		</File>
+	</Files>
+</Layout>
